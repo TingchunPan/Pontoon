@@ -1,6 +1,4 @@
-package com.bham.pij.assignments.pontoon;
-
-//Tingchun Pan 2147761
+//Tingchun Pan 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
