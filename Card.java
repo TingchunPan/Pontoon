@@ -1,5 +1,4 @@
-package com.bham.pij.assignments.pontoon;
-// Tingchun Pan 2147761
+// Tingchun Pan
 import java.util.ArrayList;
 
 public class Card {
