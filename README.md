@@ -12,4 +12,4 @@ If the value of their two cards sums to less than 16, they must receive another 
 If the value of their cards is between 16 and 21 (inclusive) they can choose to ‘stick’.
 Once the player is either happy with the value of their cards (and it has not exceeded 21) they stick and the game moves to the other player.
 The other player follows the same process and attempts to get a better hand than the first player.
-![image](https://user-images.githubusercontent.com/87034968/126884457-78894c27-d1db-45f1-b4b8-d99e2ad277d3.png)
+
